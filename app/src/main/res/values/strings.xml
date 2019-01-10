@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material Design App</string>
+
+    <string name="byline_placeholder_linebreak">%s \nby %s</string>
+    <string name="byline_placeholder">%s by %s</string>
+    <string name="action_share">Share</string>
+
+
+
+</resources>

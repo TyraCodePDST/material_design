@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#448AFF</color>
+
+    <color name="photo_placeholder">#ccc</color>
+
+    <color name="dividerColor" > #BDBDBD</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor"> #757575 </color>
+
+
+</resources>
